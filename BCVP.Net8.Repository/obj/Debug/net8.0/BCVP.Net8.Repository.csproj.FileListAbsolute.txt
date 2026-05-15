@@ -1,0 +1,17 @@
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\BCVP.Net8.Repository.csproj.AssemblyReference.cache
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\BCVP.Net8.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\BCVP.Net8.Repository.AssemblyInfoInputs.cache
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\BCVP.Net8.Repository.AssemblyInfo.cs
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\BCVP.Net8.Repository.csproj.CoreCompileInputs.cache
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\bin\Debug\net8.0\BCVP.Net8.Repository.deps.json
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\bin\Debug\net8.0\BCVP.Net8.Repository.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\bin\Debug\net8.0\BCVP.Net8.Repository.pdb
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\bin\Debug\net8.0\BCVP.Net8.Common.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\bin\Debug\net8.0\BCVP.Net8.Model.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\bin\Debug\net8.0\BCVP.Net8.Model.pdb
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\bin\Debug\net8.0\BCVP.Net8.Common.pdb
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\BCVP.Net.441E5332.Up2Date
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\BCVP.Net8.Repository.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\refint\BCVP.Net8.Repository.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\BCVP.Net8.Repository.pdb
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Repository\obj\Debug\net8.0\ref\BCVP.Net8.Repository.dll

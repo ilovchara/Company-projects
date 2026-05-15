@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BCVP.Net8.Common/BCVP.Net8.Common.csproj" />
+  <Project Path="BCVP.NET8.IService/BCVP.NET8.IService.csproj" />
+  <Project Path="BCVP.Net8.Model/BCVP.Net8.Model.csproj" />
+  <Project Path="BCVP.Net8.Repository/BCVP.Net8.Repository.csproj" />
+  <Project Path="BCVP.Net8.Service/BCVP.Net8.Service.csproj" />
+  <Project Path="BCVP.NET8/BCVP.NET8.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\bin\Debug\net8.0\BCVP.Net8.Common.deps.json
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\bin\Debug\net8.0\BCVP.Net8.Common.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\bin\Debug\net8.0\BCVP.Net8.Common.pdb
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\BCVP.Net8.Common.csproj.AssemblyReference.cache
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\BCVP.Net8.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\BCVP.Net8.Common.AssemblyInfoInputs.cache
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\BCVP.Net8.Common.AssemblyInfo.cs
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\BCVP.Net8.Common.csproj.CoreCompileInputs.cache
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\BCVP.Net8.Common.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\refint\BCVP.Net8.Common.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\BCVP.Net8.Common.pdb
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Common\obj\Debug\net8.0\ref\BCVP.Net8.Common.dll
