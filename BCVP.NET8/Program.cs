@@ -1,5 +1,8 @@
 
+using BCVP.Net8.Repository.Base;
+using BCVP.Net8.Service;
 using BCVP.NET8.Extensions;
+using BCVP.NET8.IService;
 
 namespace BCVP.NET8
 {
@@ -19,6 +22,11 @@ namespace BCVP.NET8
             //1. 依赖注入服务
             builder.Services.AddAutoMapper(typeof(AutoMapperConfig));
             AutoMapperConfig.RegisterMappings();
+
+            // C_注册 - 需要用接口 注册类
+            builder.Services.AddScoped(typeof(IBaseRepository<>),typeof(BaseRepository<>));
+            builder.Services.AddScoped(typeof(IBaseServices<,>), typeof(BaseServices<,>));
+
 
             var app = builder.Build();
 

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BCVP.Net8.Service
 {
-    public class BaseServices<TEntity,TVo> : IBaseServices<TEntity> where TEntity : class
+    public class BaseServices<TEntity, TVo> : IBaseServices<TEntity, TVo> where TEntity : class
     {
         private readonly IMapper _mapper;
 
@@ -27,8 +27,7 @@ namespace BCVP.Net8.Service
             return llout;
         }
 
-        // 这里有问题 - 这里的重载关系有问题 回来再解决吧
-        Task<List<TEntity>> IBaseServices<TEntity>.Query()
+        Task<List<TEntity>> IBaseServices<TEntity, TVo>.Query()
         {
             throw new NotImplementedException();
         }

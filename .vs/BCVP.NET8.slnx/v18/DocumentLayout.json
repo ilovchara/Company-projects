@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|solutionrelative:bcvp.net8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|solutionrelative:bcvp.net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ACAA04-16CC-4F3D-8909-6FBF6B0B7CB3}|BCVP.Net8.Repository\\BCVP.Net8.Repository.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ACAA04-16CC-4F3D-8909-6FBF6B0B7CB3}|BCVP.Net8.Repository\\BCVP.Net8.Repository.csproj|solutionrelative:bcvp.net8.repository\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FE99F0-776A-7AD2-EA6F-74A8ADD75A91}|BCVP.NET8.IService\\BCVP.NET8.IService.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FE99F0-776A-7AD2-EA6F-74A8ADD75A91}|BCVP.NET8.IService\\BCVP.NET8.IService.csproj|solutionrelative:bcvp.net8.iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C982670-877B-4A2D-6F4F-B441340523AF}|BCVP.Net8.Service\\BCVP.Net8.Service.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.service\\baseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Repository\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "BCVP.Net8.Repository\\Base\\BaseRepository.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Repository\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "BCVP.Net8.Repository\\Base\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:55:45.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Program.cs",
+              "RelativeDocumentMoniker": "BCVP.NET8\\Program.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Program.cs",
+              "RelativeToolTip": "BCVP.NET8\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:53:02.161Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -106,28 +140,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "BCVP.NET8\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "BCVP.NET8\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:10:14.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BaseServices.cs",
               "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BaseServices.cs",
               "RelativeDocumentMoniker": "BCVP.Net8.Service\\BaseServices.cs",
               "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BaseServices.cs",
               "RelativeToolTip": "BCVP.Net8.Service\\BaseServices.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADgvxIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T07:52:23.374Z",
+              "WhenOpened": "2026-05-18T02:52:04.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "BCVP.NET8.IService\\IBaseService.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\IBaseService.cs",
+              "RelativeToolTip": "BCVP.NET8.IService\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T02:32:42.41Z",
               "EditorCaption": ""
             }
           ]
