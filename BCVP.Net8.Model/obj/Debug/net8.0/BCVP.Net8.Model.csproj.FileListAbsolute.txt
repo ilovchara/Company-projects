@@ -13,3 +13,4 @@ D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Model\obj\Debug\net8.0\BC
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Model\obj\Debug\net8.0\refint\BCVP.Net8.Model.dll
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Model\obj\Debug\net8.0\BCVP.Net8.Model.pdb
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Model\obj\Debug\net8.0\ref\BCVP.Net8.Model.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.Net8.Model\obj\Debug\net8.0\BCVP.Net8.Model.sourcelink.json

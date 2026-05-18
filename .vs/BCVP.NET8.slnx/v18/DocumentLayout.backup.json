@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03FE99F0-776A-7AD2-EA6F-74A8ADD75A91}|BCVP.NET8.IService\\BCVP.NET8.IService.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03FE99F0-776A-7AD2-EA6F-74A8ADD75A91}|BCVP.NET8.IService\\BCVP.NET8.IService.csproj|solutionrelative:bcvp.net8.iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C982670-877B-4A2D-6F4F-B441340523AF}|BCVP.Net8.Service\\BCVP.Net8.Service.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.service\\baseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C982670-877B-4A2D-6F4F-B441340523AF}|BCVP.Net8.Service\\BCVP.Net8.Service.csproj|solutionrelative:bcvp.net8.service\\baseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,28 +102,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BaseServices.cs",
               "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BaseServices.cs",
               "RelativeDocumentMoniker": "BCVP.Net8.Service\\BaseServices.cs",
               "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BaseServices.cs",
               "RelativeToolTip": "BCVP.Net8.Service\\BaseServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T02:52:04.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IBaseService.cs",
-              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\IBaseService.cs",
-              "RelativeDocumentMoniker": "BCVP.NET8.IService\\IBaseService.cs",
-              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\IBaseService.cs",
-              "RelativeToolTip": "BCVP.NET8.IService\\IBaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T02:32:42.41Z",
               "EditorCaption": ""
             }
           ]

@@ -47,3 +47,4 @@ D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\BCVP.Net
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\BCVP.Net8.Repository.pdb
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\AutoMapper.dll
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\obj\Debug\net8.0\BCVP.NET8.sourcelink.json
