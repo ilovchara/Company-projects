@@ -1,20 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "FpPfnZXevXU=",
+  "dgSpecHash": "/sUKhOMLEYo=",
   "success": true,
   "projectFilePath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Common\\BCVP.Net8.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\it003\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+    "C:\\Users\\it003\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\it003\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\it003\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\it003\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\it003\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\it003\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\it003\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\it003\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "获取包漏洞数据时出错: 无法加载源 https://api.nuget.org/v3/index.json 的服务索引。",
-      "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Common\\BCVP.Net8.Common.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Common\\BCVP.Net8.Common.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

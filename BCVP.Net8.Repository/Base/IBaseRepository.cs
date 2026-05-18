@@ -15,7 +15,4 @@ namespace BCVP.Net8.Repository.Base
     {
         Task<List<TEntity>> Query();
     }
-
-
-
 }

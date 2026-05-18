@@ -1,1 +1,19 @@
-".vs/" 
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.lock.json
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# .NET Core
+project.lock.json
+project.assets.json
+*.pubxml
+
+# AutoMapper (如有需要可保留)
+# !AutoMapper.dll  # 取消注释如果确实需要提交
