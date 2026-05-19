@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qKIIyu0t4F8=",
+  "dgSpecHash": "KDz8Yql105o=",
   "success": true,
-  "projectFilePath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.NET8.IService.csproj",
+  "projectFilePath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.Net8.IService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\it003\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\it003\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

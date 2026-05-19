@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C982670-877B-4A2D-6F4F-B441340523AF}|BCVP.Net8.Service\\BCVP.Net8.Service.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.service\\baseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C982670-877B-4A2D-6F4F-B441340523AF}|BCVP.Net8.Service\\BCVP.Net8.Service.csproj|solutionrelative:bcvp.net8.service\\baseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|solutionrelative:bcvp.net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -103,14 +103,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseServices.cs",
-              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BaseServices.cs",
-              "RelativeDocumentMoniker": "BCVP.Net8.Service\\BaseServices.cs",
-              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BaseServices.cs",
-              "RelativeToolTip": "BCVP.Net8.Service\\BaseServices.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Program.cs",
+              "RelativeDocumentMoniker": "BCVP.NET8\\Program.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Program.cs",
+              "RelativeToolTip": "BCVP.NET8\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T02:52:04.089Z",
+              "WhenOpened": "2026-05-19T00:45:14.751Z",
               "EditorCaption": ""
             }
           ]

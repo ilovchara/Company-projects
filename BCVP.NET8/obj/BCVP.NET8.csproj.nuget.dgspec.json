@@ -85,12 +85,89 @@
         }
       }
     },
-    "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.NET8.IService.csproj": {
+    "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.NET8.IService.csproj",
-        "projectName": "BCVP.NET8.IService",
-        "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.NET8.IService.csproj",
+        "projectUniqueName": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj",
+        "projectName": "BCVP.Net8.Extension",
+        "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj",
+        "packagesPath": "C:\\Users\\it003\\.nuget\\packages\\",
+        "outputPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\app\\VS2026\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it003\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BCVP.Net8.Service.csproj": {
+                "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BCVP.Net8.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.Net8.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.Net8.IService.csproj",
+        "projectName": "BCVP.Net8.IService",
+        "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.Net8.IService.csproj",
         "packagesPath": "C:\\Users\\it003\\.nuget\\packages\\",
         "outputPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\obj\\",
         "projectStyle": "PackageReference",
@@ -327,8 +404,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.NET8.IService.csproj": {
-                "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.NET8.IService.csproj"
+              "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.Net8.IService.csproj": {
+                "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8.IService\\BCVP.Net8.IService.csproj"
               },
               "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Repository\\BCVP.Net8.Repository.csproj": {
                 "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Repository\\BCVP.Net8.Repository.csproj"
@@ -401,8 +478,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BCVP.Net8.Service.csproj": {
-                "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Service\\BCVP.Net8.Service.csproj"
+              "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj": {
+                "projectPath": "D:\\A_C\\A_C学习\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj"
               }
             }
           }

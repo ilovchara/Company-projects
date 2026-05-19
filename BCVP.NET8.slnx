@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="BCVP.Net8.Common/BCVP.Net8.Common.csproj" />
-  <Project Path="BCVP.NET8.IService/BCVP.NET8.IService.csproj" />
+  <Project Path="BCVP.Net8.Extension/BCVP.Net8.Extension.csproj" Id="577bfd2e-a78b-42ee-8b49-187338fd0993" />
+  <Project Path="BCVP.NET8.IService/BCVP.NET8.IService.csproj" DisplayName="BCVP.Net8.IService" />
   <Project Path="BCVP.Net8.Model/BCVP.Net8.Model.csproj" />
   <Project Path="BCVP.Net8.Repository/BCVP.Net8.Repository.csproj" />
   <Project Path="BCVP.Net8.Service/BCVP.Net8.Service.csproj" />

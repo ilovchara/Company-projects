@@ -8,11 +8,30 @@
     ".NETCoreApp,Version=v8.0": {
       "BCVP.NET8/1.0.0": {
         "dependencies": {
-          "BCVP.Net8.Service": "1.0.0",
+          "BCVP.Net8.Extension": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
           "BCVP.NET8.dll": {}
+        }
+      },
+      "Autofac/6.4.0": {
+        "runtime": {
+          "lib/net6.0/Autofac.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "Autofac.Extensions.DependencyInjection/8.0.0": {
+        "dependencies": {
+          "Autofac": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/Autofac.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
+          }
         }
       },
       "AutoMapper/12.0.1": {
@@ -100,12 +119,24 @@
           }
         }
       },
-      "BCVP.NET8.IService/1.0.0": {
+      "BCVP.Net8.Extension/1.0.0": {
+        "dependencies": {
+          "Autofac.Extensions.DependencyInjection": "8.0.0",
+          "BCVP.Net8.Service": "1.0.0"
+        },
+        "runtime": {
+          "BCVP.Net8.Extension.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BCVP.Net8.IService/1.0.0": {
         "dependencies": {
           "BCVP.Net8.Model": "1.0.0"
         },
         "runtime": {
-          "BCVP.NET8.IService.dll": {
+          "BCVP.Net8.IService.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -135,7 +166,7 @@
       },
       "BCVP.Net8.Service/1.0.0": {
         "dependencies": {
-          "BCVP.NET8.IService": "1.0.0",
+          "BCVP.Net8.IService": "1.0.0",
           "BCVP.Net8.Repository": "1.0.0"
         },
         "runtime": {
@@ -152,6 +183,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tkFxl6wAPuwVhrlN8wuNADnd+k2tv4ReP7ZZSL0vjfcN0RcfC9v25ogxK6b03HC7D4NwWjSLf1G/zTG8Bw43wQ==",
+      "path": "autofac/6.4.0",
+      "hashPath": "autofac.6.4.0.nupkg.sha512"
+    },
+    "Autofac.Extensions.DependencyInjection/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nGrXNpQX2FiZpIBydK9cxZnnoqP/cUd3k/53uRERYEqLtWzKtE15R6L+j5q5ax5Rv/+3wAIkOaPePkahfqrwjg==",
+      "path": "autofac.extensions.dependencyinjection/8.0.0",
+      "hashPath": "autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512"
     },
     "AutoMapper/12.0.1": {
       "type": "package",
@@ -214,7 +259,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BCVP.NET8.IService/1.0.0": {
+    "BCVP.Net8.Extension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BCVP.Net8.IService/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
