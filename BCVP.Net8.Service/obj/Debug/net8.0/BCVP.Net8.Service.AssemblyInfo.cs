@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BCVP.Net8.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49b4ffe1870666893703852c3e51f9ae2e1e828e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a05f0af3e68098201c7b6b21f583352428356f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BCVP.Net8.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BCVP.Net8.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

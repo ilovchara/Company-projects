@@ -1,6 +1,6 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
-using BCVP.Net8.Extension;
+using BCVP.Net8.Extension.ServiceExtensions;
 using BCVP.Net8.Repository.Base;
 using BCVP.Net8.Service;
 using BCVP.NET8.Extensions;

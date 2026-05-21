@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace BCVP.NET8.Extensions
+namespace BCVP.Net8.Extension.ServiceExtensions
 {
     /// <summary>
     /// 

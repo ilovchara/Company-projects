@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using BCVP.Net8.Model;
 
-namespace BCVP.NET8.Extensions
+namespace BCVP.Net8.Extension.ServiceExtensions
 {
     /// <summary>
     /// 构造 视图模型 与 基本模型的关系映射

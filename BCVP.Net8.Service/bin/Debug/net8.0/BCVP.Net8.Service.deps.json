@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "BCVP.Net8.Service/1.0.0": {
         "dependencies": {
-          "BCVP.Net8.IService": "1.0.0",
+          "BCVP.NET8.IService": "1.0.0",
           "BCVP.Net8.Repository": "1.0.0"
         },
         "runtime": {
@@ -84,12 +84,12 @@
           }
         }
       },
-      "BCVP.Net8.IService/1.0.0": {
+      "BCVP.NET8.IService/1.0.0": {
         "dependencies": {
           "BCVP.Net8.Model": "1.0.0"
         },
         "runtime": {
-          "BCVP.Net8.IService.dll": {
+          "BCVP.NET8.IService.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -172,7 +172,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BCVP.Net8.IService/1.0.0": {
+    "BCVP.NET8.IService/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

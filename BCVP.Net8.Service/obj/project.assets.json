@@ -136,17 +136,17 @@
           "bin/placeholder/BCVP.Net8.Common.dll": {}
         }
       },
-      "BCVP.Net8.IService/1.0.0": {
+      "BCVP.NET8.IService/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "BCVP.Net8.Model": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/BCVP.Net8.IService.dll": {}
+          "bin/placeholder/BCVP.NET8.IService.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BCVP.Net8.IService.dll": {}
+          "bin/placeholder/BCVP.NET8.IService.dll": {}
         }
       },
       "BCVP.Net8.Model/1.0.0": {
@@ -407,10 +407,10 @@
       "path": "../BCVP.Net8.Common/BCVP.Net8.Common.csproj",
       "msbuildProject": "../BCVP.Net8.Common/BCVP.Net8.Common.csproj"
     },
-    "BCVP.Net8.IService/1.0.0": {
+    "BCVP.NET8.IService/1.0.0": {
       "type": "project",
-      "path": "../BCVP.NET8.IService/BCVP.Net8.IService.csproj",
-      "msbuildProject": "../BCVP.NET8.IService/BCVP.Net8.IService.csproj"
+      "path": "../BCVP.NET8.IService/BCVP.NET8.IService.csproj",
+      "msbuildProject": "../BCVP.NET8.IService/BCVP.NET8.IService.csproj"
     },
     "BCVP.Net8.Model/1.0.0": {
       "type": "project",
@@ -425,7 +425,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "BCVP.Net8.IService >= 1.0.0",
+      "BCVP.NET8.IService >= 1.0.0",
       "BCVP.Net8.Repository >= 1.0.0"
     ]
   },

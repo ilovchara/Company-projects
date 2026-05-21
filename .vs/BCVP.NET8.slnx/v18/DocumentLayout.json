@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{577BFD2E-A78B-42EE-8B49-187338FD0993}|BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.extension\\serviceextensions\\serviceaop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577BFD2E-A78B-42EE-8B49-187338FD0993}|BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj|solutionrelative:bcvp.net8.extension\\serviceextensions\\serviceaop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577BFD2E-A78B-42EE-8B49-187338FD0993}|BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.extension\\serviceextensions\\autofacmoduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577BFD2E-A78B-42EE-8B49-187338FD0993}|BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj|solutionrelative:bcvp.net8.extension\\serviceextensions\\autofacmoduleregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8\\extensions\\autotacpropertitymodulereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|solutionrelative:bcvp.net8\\extensions\\autotacpropertitymodulereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|solutionrelative:bcvp.net8\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577BFD2E-A78B-42EE-8B49-187338FD0993}|BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8.extension\\serviceextensions\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577BFD2E-A78B-42EE-8B49-187338FD0993}|BCVP.Net8.Extension\\BCVP.Net8.Extension.csproj|solutionrelative:bcvp.net8.extension\\serviceextensions\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|d:\\a_c\\a_c\u5B66\u4E60\\c2-sqlsugar\\.net8\\bcvp.net8\\bcvp.net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AB54718-1FB7-6A2B-C783-CF6211B72B1F}|BCVP.NET8\\BCVP.NET8.csproj|solutionrelative:bcvp.net8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,15 +122,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AutotacPropertityModuleReg.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Extensions\\AutotacPropertityModuleReg.cs",
+              "RelativeDocumentMoniker": "BCVP.NET8\\Extensions\\AutotacPropertityModuleReg.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Extensions\\AutotacPropertityModuleReg.cs",
+              "RelativeToolTip": "BCVP.NET8\\Extensions\\AutotacPropertityModuleReg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T05:54:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BCVP.NET8\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BCVP.NET8\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T05:53:12.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\ServiceExtensions\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "BCVP.Net8.Extension\\ServiceExtensions\\AutoMapperConfig.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\ServiceExtensions\\AutoMapperConfig.cs",
+              "RelativeToolTip": "BCVP.Net8.Extension\\ServiceExtensions\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T05:51:53.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Program.cs",
               "RelativeDocumentMoniker": "BCVP.NET8\\Program.cs",
               "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.NET8\\Program.cs",
               "RelativeToolTip": "BCVP.NET8\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T00:45:14.751Z",
+              "WhenOpened": "2026-05-21T05:51:49.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutofacModuleRegister.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\ServiceExtensions\\AutofacModuleRegister.cs",
+              "RelativeDocumentMoniker": "BCVP.Net8.Extension\\ServiceExtensions\\AutofacModuleRegister.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\ServiceExtensions\\AutofacModuleRegister.cs*",
+              "RelativeToolTip": "BCVP.Net8.Extension\\ServiceExtensions\\AutofacModuleRegister.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T01:57:59.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceAOP.cs",
+              "DocumentMoniker": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\ServiceExtensions\\ServiceAOP.cs",
+              "RelativeDocumentMoniker": "BCVP.Net8.Extension\\ServiceExtensions\\ServiceAOP.cs",
+              "ToolTip": "D:\\A_C\\A_C\u5B66\u4E60\\C2-SqlSugar\\.NET8\\BCVP.NET8\\BCVP.Net8.Extension\\ServiceExtensions\\ServiceAOP.cs",
+              "RelativeToolTip": "BCVP.Net8.Extension\\ServiceExtensions\\ServiceAOP.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:36:23.657Z",
               "EditorCaption": ""
             }
           ]

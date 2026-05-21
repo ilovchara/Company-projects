@@ -15,4 +15,4 @@ D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.pdb
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\ref\BCVP.NET8.IService.dll
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET8.IService.sourcelink.json
-D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.Net.79851465.Up2Date
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8.IService\obj\Debug\net8.0\BCVP.NET.BAD80C3C.Up2Date

@@ -52,3 +52,5 @@ D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\BCVP.Net
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\BCVP.Net8.Extension.pdb
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\Autofac.dll
 D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\Autofac.Extras.DynamicProxy.dll
+D:\A_C\A_C学习\C2-SqlSugar\.NET8\BCVP.NET8\BCVP.NET8\bin\Debug\net8.0\Castle.Core.dll
